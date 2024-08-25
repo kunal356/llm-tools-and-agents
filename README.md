@@ -1,2 +1,8 @@
-# llm-tools-and-agents
-Example of tools and agent in LangChain
+---
+license: gpl-3.0
+title: Tools and Agents
+sdk: streamlit
+emoji: 🚀
+colorFrom: blue
+colorTo: green
+---
